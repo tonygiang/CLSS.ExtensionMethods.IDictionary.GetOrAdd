@@ -10,7 +10,7 @@ This package provides `GetOrAdd` method to all `IDictionary` types.
 
 Example:
 
-```
+```csharp
 using CLSS;
 
 var NumberSpellings = new Dictionary<int, string>();
